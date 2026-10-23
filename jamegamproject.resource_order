@@ -7,10 +7,16 @@
   ],
   "ResourceOrderSettings":[
     {"name":"boundry_obj","order":1,"path":"objects/boundry_obj/boundry_obj.yy",},
+    {"name":"exitbutton_obj","order":3,"path":"objects/exitbutton_obj/exitbutton_obj.yy",},
+    {"name":"startbutton_obj","order":2,"path":"objects/startbutton_obj/startbutton_obj.yy",},
+    {"name":"title_obj","order":4,"path":"objects/title_obj/title_obj.yy",},
     {"name":"game_area","order":1,"path":"rooms/game_area/game_area.yy",},
     {"name":"boundry_spr","order":4,"path":"sprites/boundry_spr/boundry_spr.yy",},
+    {"name":"exitbutton_spr","order":6,"path":"sprites/exitbutton_spr/exitbutton_spr.yy",},
     {"name":"gamebackground_spr","order":3,"path":"sprites/gamebackground_spr/gamebackground_spr.yy",},
     {"name":"pixil_walk_spr","order":2,"path":"sprites/pixil_walk_spr/pixil_walk_spr.yy",},
+    {"name":"startbutton_spr","order":5,"path":"sprites/startbutton_spr/startbutton_spr.yy",},
     {"name":"swing_animation_spr","order":1,"path":"sprites/swing_animation_spr/swing_animation_spr.yy",},
+    {"name":"title_spr","order":7,"path":"sprites/title_spr/title_spr.yy",},
   ],
 }
