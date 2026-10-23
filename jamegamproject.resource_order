@@ -1,8 +1,13 @@
 {
   "FolderOrderSettings":[
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Objects","order":2,"path":"folders/Objects.yy",},
     {"name":"Rooms","order":1,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":3,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"commit_test","order":1,"path":"rooms/commit_test/commit_test.yy",},
+    {"name":"game_area","order":1,"path":"rooms/game_area/game_area.yy",},
+    {"name":"pixil_walk_spr","order":2,"path":"sprites/pixil_walk_spr/pixil_walk_spr.yy",},
+    {"name":"swing_animation_spr","order":1,"path":"sprites/swing_animation_spr/swing_animation_spr.yy",},
   ],
 }
