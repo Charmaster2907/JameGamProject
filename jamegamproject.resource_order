@@ -1,12 +1,15 @@
 {
   "FolderOrderSettings":[
-    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
     {"name":"Objects","order":2,"path":"folders/Objects.yy",},
     {"name":"Rooms","order":1,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
     {"name":"Sprites","order":3,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"boundry_obj","order":1,"path":"objects/boundry_obj/boundry_obj.yy",},
     {"name":"game_area","order":1,"path":"rooms/game_area/game_area.yy",},
+    {"name":"boundry_spr","order":4,"path":"sprites/boundry_spr/boundry_spr.yy",},
+    {"name":"gamebackground_spr","order":3,"path":"sprites/gamebackground_spr/gamebackground_spr.yy",},
     {"name":"pixil_walk_spr","order":2,"path":"sprites/pixil_walk_spr/pixil_walk_spr.yy",},
     {"name":"swing_animation_spr","order":1,"path":"sprites/swing_animation_spr/swing_animation_spr.yy",},
   ],
