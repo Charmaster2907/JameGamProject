@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -31,7 +32,8 @@
     {"id":{"name":"title_obj","path":"objects/title_obj/title_obj.yy",},},
     {"id":{"name":"game_area","path":"rooms/game_area/game_area.yy",},},
     {"id":{"name":"title_screen","path":"rooms/title_screen/title_screen.yy",},},
-    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"boundry_snd","path":"sounds/boundry_snd/boundry_snd.yy",},},
+    {"id":{"name":"swing_snd","path":"sounds/swing_snd/swing_snd.yy",},},
     {"id":{"name":"boundry_spr","path":"sprites/boundry_spr/boundry_spr.yy",},},
     {"id":{"name":"exitbutton_spr","path":"sprites/exitbutton_spr/exitbutton_spr.yy",},},
     {"id":{"name":"gamebackground_spr","path":"sprites/gamebackground_spr/gamebackground_spr.yy",},},
