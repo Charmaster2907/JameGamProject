@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"swing_animation_spr",
+  "%Name":"swingAnimation_spr",
   "bboxMode":0,
   "bbox_bottom":45,
   "bbox_left":20,
@@ -26,7 +26,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"94d24101-8804-480e-81ea-5ea5dfc2922d","blendMode":0,"displayName":"default","isLocked":false,"name":"94d24101-8804-480e-81ea-5ea5dfc2922d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"swing_animation_spr",
+  "name":"swingAnimation_spr",
   "nineSlice":null,
   "origin":9,
   "parent":{
@@ -38,7 +38,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"swing_animation_spr",
+    "%Name":"swingAnimation_spr",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -62,7 +62,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"swing_animation_spr",
+    "name":"swingAnimation_spr",
     "playback":1,
     "playbackSpeed":10.0,
     "playbackSpeedType":0,
@@ -74,22 +74,22 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"25c35a12-3fcb-4e80-a876-3d6395e2c735","path":"sprites/swing_animation_spr/swing_animation_spr.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"25c35a12-3fcb-4e80-a876-3d6395e2c735","path":"sprites/swingAnimation_spr/swingAnimation_spr.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"3b2faa9a-248a-4cc0-b287-2b8a937f398a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"04fa4465-b7d2-4964-960c-6608e00ca2a8","path":"sprites/swing_animation_spr/swing_animation_spr.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"04fa4465-b7d2-4964-960c-6608e00ca2a8","path":"sprites/swingAnimation_spr/swingAnimation_spr.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"ac3d7f03-b5e5-4f86-9bc1-56f00bf9b3a4","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"397ecac8-89dc-4ca0-9458-0b7e3691f99e","path":"sprites/swing_animation_spr/swing_animation_spr.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"397ecac8-89dc-4ca0-9458-0b7e3691f99e","path":"sprites/swingAnimation_spr/swingAnimation_spr.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"dd3a3cd6-baba-4b86-97f8-f1d0f13db6f5","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"60731201-bc3f-4b81-9acc-c6a7125b14f5","path":"sprites/swing_animation_spr/swing_animation_spr.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"60731201-bc3f-4b81-9acc-c6a7125b14f5","path":"sprites/swingAnimation_spr/swingAnimation_spr.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"e10f2257-e6d5-44ca-a4ec-07791b57bfc8","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9807ec15-d90f-4117-806b-7a3fc2633497","path":"sprites/swing_animation_spr/swing_animation_spr.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9807ec15-d90f-4117-806b-7a3fc2633497","path":"sprites/swingAnimation_spr/swingAnimation_spr.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"15755d54-2961-45b1-a696-7812ca59b102","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f5ddd891-77af-469b-8275-a64c7faad357","path":"sprites/swing_animation_spr/swing_animation_spr.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f5ddd891-77af-469b-8275-a64c7faad357","path":"sprites/swingAnimation_spr/swingAnimation_spr.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"6a6337a0-b238-4408-a584-4e9cee10b1d9","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

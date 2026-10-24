@@ -1,0 +1,1 @@
+spawntime = 6

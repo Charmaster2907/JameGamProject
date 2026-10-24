@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"startbutton_obj",
+  "%Name":"startButton_obj",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"startbutton_obj",
+  "name":"startButton_obj",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"startbutton_spr",
-    "path":"sprites/startbutton_spr/startbutton_spr.yy",
+    "name":"startButton_spr",
+    "path":"sprites/startButton_spr/startButton_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,
