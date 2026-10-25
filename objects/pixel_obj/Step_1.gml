@@ -1,0 +1,2 @@
+pixelx = x
+pixely = y
