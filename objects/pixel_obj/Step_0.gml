@@ -15,6 +15,7 @@ if attack = false
 if highscore_obj.pixelhealth = 0
 {
 	room_goto(game_over)
+	audio_play_sound(die_snd,0,false)
 }
 if highscore_obj.points > highscore_obj.highscore
 {

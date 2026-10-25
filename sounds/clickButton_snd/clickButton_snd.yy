@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"clickButton_snd",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.81038547,
+  "exportDir":"",
+  "name":"clickButton_snd",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"clickButton_snd.wav",
+  "volume":1.0,
+}
