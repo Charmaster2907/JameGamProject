@@ -7,6 +7,8 @@
     {"name":"Sprites","order":3,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"font1_fnt","order":8,"path":"fonts/font1_fnt/font1_fnt.yy",},
+    {"name":"font2_fnt","order":9,"path":"fonts/font2_fnt/font2_fnt.yy",},
     {"name":"boundry_obj","order":1,"path":"objects/boundry_obj/boundry_obj.yy",},
     {"name":"enemy1_obj","order":6,"path":"objects/enemy1_obj/enemy1_obj.yy",},
     {"name":"exitButton_obj","order":3,"path":"objects/exitButton_obj/exitButton_obj.yy",},
@@ -23,6 +25,7 @@
     {"name":"clickButton_snd","order":4,"path":"sounds/clickButton_snd/clickButton_snd.yy",},
     {"name":"die_snd","order":5,"path":"sounds/die_snd/die_snd.yy",},
     {"name":"hit_snd","order":3,"path":"sounds/hit_snd/hit_snd.yy",},
+    {"name":"backgroundTitle_spr","order":13,"path":"sprites/backgroundTitle_spr/backgroundTitle_spr.yy",},
     {"name":"boundry_spr","order":4,"path":"sprites/boundry_spr/boundry_spr.yy",},
     {"name":"deathscreen_spr","order":12,"path":"sprites/deathscreen_spr/deathscreen_spr.yy",},
     {"name":"enemy1_spr","order":8,"path":"sprites/enemy1_spr/enemy1_spr.yy",},

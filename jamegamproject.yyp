@@ -25,6 +25,8 @@
   },
   "name":"jamegamproject",
   "resources":[
+    {"id":{"name":"font1_fnt","path":"fonts/font1_fnt/font1_fnt.yy",},},
+    {"id":{"name":"font2_fnt","path":"fonts/font2_fnt/font2_fnt.yy",},},
     {"id":{"name":"boundry_obj","path":"objects/boundry_obj/boundry_obj.yy",},},
     {"id":{"name":"enemy1_obj","path":"objects/enemy1_obj/enemy1_obj.yy",},},
     {"id":{"name":"exitButton_obj","path":"objects/exitButton_obj/exitButton_obj.yy",},},
@@ -44,6 +46,7 @@
     {"id":{"name":"die_snd","path":"sounds/die_snd/die_snd.yy",},},
     {"id":{"name":"hit_snd","path":"sounds/hit_snd/hit_snd.yy",},},
     {"id":{"name":"swing_snd","path":"sounds/swing_snd/swing_snd.yy",},},
+    {"id":{"name":"backgroundTitle_spr","path":"sprites/backgroundTitle_spr/backgroundTitle_spr.yy",},},
     {"id":{"name":"boundry_spr","path":"sprites/boundry_spr/boundry_spr.yy",},},
     {"id":{"name":"deathscreen_spr","path":"sprites/deathscreen_spr/deathscreen_spr.yy",},},
     {"id":{"name":"enemy1_spr","path":"sprites/enemy1_spr/enemy1_spr.yy",},},
